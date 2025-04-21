@@ -1,5 +1,5 @@
 ---
-title: "My fists page"
+title: "My first page"
 format: html
 ---
 ```{r}
